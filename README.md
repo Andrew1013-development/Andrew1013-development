@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ## Myself
 - A grade 11 student pursuing his side projects when he has nothing to do
@@ -8,13 +8,8 @@
 - [Agenda Manager](https://github.com/Andrew1013-development/agenda-manager): an agenda manager created as a demo to a friend whom I proposed this idea to
   - Agenda Manager 2: a GUI implementation of the original Agenda Manager 
 - [sustainplusplus-cpp](https://github.com/Andrew1013-development/sustainplusplus-cpp): A recreation of sustain++ in C++ (with full function implementations)
-- [world-execute-me-cpp](https://github.com/Andrew1013-development/world-execute-me-cpp): A recreation of world.execute(me) in C++ (with full function implementations)
+- [world-execute-me-cpp](https://github.com/Andrew1013-development/world-execute-me-cpp): A recreation of world.execute(me) in C++ (with full function implementations) 
 
-## Primary languages
-- Python (CPython 3.11.4)
-- C/C++ (gcc 13.2.0 / MSVC 14.38)
-- C# (dotnet 8.0 Preview)
- 
 <!--
 **Andrew1013-development/Andrew1013-development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
