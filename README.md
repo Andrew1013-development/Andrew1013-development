@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Myself
-- A grade 11 student pursuing his side projects when he has nothing to do
+- A grade 12 student pursuing his side projects when he has nothing to do
 - Name: Monarch / Andrew1013
 
 ## Current / Previous notable projects
