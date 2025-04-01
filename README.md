@@ -5,10 +5,8 @@
 - Name: Monarch / Andrew1013
 
 ## Current / Previous notable projects
-- [Agenda Manager](https://github.com/Andrew1013-development/agenda-manager): an agenda manager created as a demo to a friend whom I proposed this idea to
-  - Agenda Manager 2: a GUI implementation of the original Agenda Manager 
-- [sustainplusplus-cpp](https://github.com/Andrew1013-development/sustainplusplus-cpp): A recreation of sustain++ in C++ (with full function implementations)
-- [world-execute-me-cpp](https://github.com/Andrew1013-development/world-execute-me-cpp): A recreation of world.execute(me) in C++ (with full function implementations) 
+- [Carousel](https://github.com/Andrew1013-development/carousel): Rudimentary image carousel for use on Glance Dashboard
+- [Sign Interpreter](https://github.com/Andrew1013-development/sign_interpreter): AI app for recognizing and intrepreting sign language
 
 <!--
 **Andrew1013-development/Andrew1013-development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
