@@ -1,12 +1,16 @@
 ## Hi there 👋
 
 ## Myself
-- A grade 12 student pursuing his side projects when he has nothing to do
-- Name: Monarch / Andrew1013
+- Name: Trần Việt Huy / Monarch / Andrew1013
+- Education: Ho Chi Minh City of Technology
+- Major: Bachelor of Information Technology (UTS)
 
-## Current / Previous notable projects
+## Current / Previous projects
 - [Carousel](https://github.com/Andrew1013-development/carousel): Rudimentary image carousel for use on Glance Dashboard
 - [Sign Interpreter](https://github.com/Andrew1013-development/sign_interpreter): AI app for recognizing and intrepreting sign language
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrew1013-development&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew1013-development&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **Andrew1013-development/Andrew1013-development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
