@@ -6,6 +6,7 @@
 - Major: Bachelor of Information Technology (UTS)
 
 ## Current / Previous projects
+- [Amolang](https://github.com/Andrew1013-development/amolang): An experimental programming language and compiler
 - [Carousel](https://github.com/Andrew1013-development/carousel): Rudimentary image carousel for use on Glance Dashboard
 - [Sign Interpreter](https://github.com/Andrew1013-development/sign_interpreter): AI app for recognizing and intrepreting sign language
 
