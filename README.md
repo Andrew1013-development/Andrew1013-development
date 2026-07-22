@@ -2,16 +2,14 @@
 
 ## Myself
 - Name: Trần Việt Huy / Monarch / Andrew1013
-- Education: Ho Chi Minh City of Technology
-- Major: Bachelor of Information Technology (UTS)
+- Education: University of Technology Sydney
+- Major: Information Technology
+- Program: Transnational Education program with Ho Chi Minh University of Technology
 
-## Current / Previous projects
+## Projects
 - [Amolang](https://github.com/Andrew1013-development/amolang): An experimental programming language and compiler
 - [Carousel](https://github.com/Andrew1013-development/carousel): Rudimentary image carousel for use on Glance Dashboard
-- [Sign Interpreter](https://github.com/Andrew1013-development/sign_interpreter): AI app for recognizing and intrepreting sign language
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrew1013-development&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew1013-development&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+- [Sign Interpreter](https://github.com/Andrew1013-development/sign_interpreter): AI app for recognizing and interpreting sign language
 
 <!--
 **Andrew1013-development/Andrew1013-development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
