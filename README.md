@@ -7,7 +7,7 @@
 ## Competitions
 - Viettel AI Race 2026: [MedFun](https://github.com/Andrew1013-development/medfun)
 - RMIT ADC 2026: [FlowyX](https://github.com/TrongKoi/flowyX)
-- RMIT Hackathon 2026: DAMN-C1 (Top 94 on public, Top 57 on private)
+- RMIT Hackathon 2026: [RMIT_SGS_DAMN_C1](https://github.com/Andrew1013-development/RMIT_SGS_DAMN_C1) (Top 94 on public, Top 57 on private)
 
 ## Projects
 - [TUIMuic](https://github.com/Andrew1013-development/tui-music): a TUI music player written with Textual and Rich in Python
